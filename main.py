@@ -1,2 +1,2 @@
 print("Hello Shruthi!")
-print("go away")
+print("go awayss")
