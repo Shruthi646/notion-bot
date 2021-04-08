@@ -1,1 +1,1 @@
-HI
+An application that imports stock data into notion.
